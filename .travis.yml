@@ -2,8 +2,6 @@ language: node_js
 
 node_js:
   - 18
-  - 19
-  - 20
 
 notifications:
   email: false
@@ -13,5 +11,4 @@ script:
   - npm run lint:js
   - npm run build
 
-dist: trusty
-sudo: false
+dist: focal
