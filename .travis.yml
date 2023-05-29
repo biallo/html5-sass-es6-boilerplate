@@ -5,6 +5,9 @@ node_js:
   - 19
   - 20
 
+notifications:
+  email: false
+
 install:
   - SKIP_SETUP=true npm install
 

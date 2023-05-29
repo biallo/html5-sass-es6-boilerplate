@@ -1,5 +1,7 @@
 # html5-sass-es6-boilerplate
 
+[![Build Status](https://app.travis-ci.com/biallo/html5-sass-es6-boilerplate.svg?branch=main)](https://app.travis-ci.com/biallo/html5-sass-es6-boilerplate)
+
 A boilerplate for creating static sites using Html5, Sass, ES6
 
 ## Project dependencies
