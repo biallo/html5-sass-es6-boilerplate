@@ -8,9 +8,6 @@ node_js:
 notifications:
   email: false
 
-install:
-  - SKIP_SETUP=true npm install
-
 script:
   - npm run lint:styles
   - npm run lint:js
